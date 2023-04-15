@@ -1,0 +1,29 @@
+.Blog{
+    border: 1px solid black;
+    width: 800px;
+}
+#underline{
+    margin-left: 20px;
+    margin-top: 20px;
+text-decoration: underline;
+}
+
+#paragraph{
+    margin-left: 20px;
+}
+#read{
+    margin-left: 20px;
+    margin-bottom: 20px;
+}
+#Trivia{
+    text-decoration: underline;
+}
+.image{
+    text-decoration: underline;
+}
+a{
+    color: inherit;
+}
+ii{
+    margin-left:20px;
+}
